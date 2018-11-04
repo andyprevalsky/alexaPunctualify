@@ -18,10 +18,10 @@ const languageStrings = {
     'en-GB': {
         translation: {
             FACTS: [
-                'You have an meet soon, leave in 5 minutes!',
+                'You have an meet up soon, leave in 5 minutes!',
             ],
             SKILL_NAME: 'British Space Facts',
-            GET_FACT_MESSAGE: "Here's your fact: ",
+            GET_FACT_MESSAGE: "Alert! ",
             HELP_MESSAGE: 'You can say tell me a space fact, or, you can say exit... What can I help you with?',
             HELP_REPROMPT: 'What can I help you with?',
             STOP_MESSAGE: 'Goodbye!',
@@ -30,7 +30,7 @@ const languageStrings = {
     'en-US': {
         translation: {
             FACTS: [
-                'You should leave in 10 minutes for your meetup!',
+                'The Moon is moving approximately 3.8 cm away from our planet every year.',
             ],
             SKILL_NAME: 'American Space Facts',
             GET_FACT_MESSAGE: "Here's your fact: ",
