@@ -30,7 +30,7 @@ const languageStrings = {
     'en-US': {
         translation: {
             FACTS: [
-                'The Moon is moving approximately 3.8 cm away from our planet every year.',
+                'You have a meetup soon! Leave in 5 minutes to get there on time!',
             ],
             SKILL_NAME: 'meet up',
             GET_FACT_MESSAGE: "Alert! ",
